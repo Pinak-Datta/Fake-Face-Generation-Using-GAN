@@ -1,4 +1,6 @@
 # Fake-Face-Generation-Using-GAN
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 This project is a Python implementation of the Deep Convolutional Generative Adversarial Network (DCGAN) for generating realistic fake faces using PyTorch. The network architecture used in this project is inspired by the paper "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks" by Alec Radford, Luke Metz, and Soumith Chintala.
 
