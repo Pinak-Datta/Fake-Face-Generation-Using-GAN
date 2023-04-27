@@ -259,7 +259,7 @@ if __name__ == "__main__":
 
             iters += 1
 
-    torch.save(netG.state_dict(), "C:\\Users\\KIIT\\PycharmProjects\\Minor\\netG_1000.pth")
+    torch.save(netG.state_dict(), "netG_1000.pth")
 
     plt.figure(figsize=(10, 5))
     plt.title("Generator and Discriminator Loss During Training")
@@ -268,6 +268,6 @@ if __name__ == "__main__":
     plt.xlabel("iterations")
     plt.ylabel("Loss")
     plt.legend()
-    plt.savefig("C:\\Users\\KIIT\\PycharmProjects\\Minor\\Loss.png")
+    plt.savefig("Loss.png")
 
 
