@@ -13,7 +13,7 @@ Matplotlib
 ## Installation
 1. Clone the repository
 ```
-git clone https://github.com/username/repo_name.git
+git clone https://github.com/Pinak-Datta/Fake-Face-Generation-Using-GAN.git
 ```  
 2. Install the dependencies using pip:
 ```
