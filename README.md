@@ -9,6 +9,8 @@ TorchVision 0.10+
 Matplotlib  
 
 ## Results
+![Output for 1000 Epochs](https://github.com/Pinak-Datta/Fake-Face-Generation-Using-GAN/blob/main/output_image.jpg)
+![Another Generated Output for 1000 Epochs](https://github.com/Pinak-Datta/Fake-Face-Generation-Using-GAN/blob/main/output_image_1000.jpg)
 
 ## Installation
 1. Clone the repository
